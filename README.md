@@ -17,5 +17,6 @@
 
 #### Install YouCompleteMe plugin
 
-`cd ~/.config/vim/bundle/YouCompleteMe
-./install.py --clang-completer`
+`cd ~/.config/vim/bundle/YouCompleteMe`
+
+`./install.py --clang-completer`
